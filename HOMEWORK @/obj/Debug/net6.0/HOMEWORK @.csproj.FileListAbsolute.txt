@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\bin\Debug\net6.0\HOMEWORK @.exe
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\bin\Debug\net6.0\HOMEWORK @.deps.json
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\bin\Debug\net6.0\HOMEWORK @.runtimeconfig.json
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\bin\Debug\net6.0\HOMEWORK @.dll
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\bin\Debug\net6.0\HOMEWORK @.pdb
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.dll
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\refint\HOMEWORK @.dll
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.pdb
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\HOMEWORK @.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Homework C#\Homework 2\HOMEWORK @\obj\Debug\net6.0\ref\HOMEWORK @.dll
